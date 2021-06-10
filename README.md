@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hello Everyone 👋
 
+### About Me:
 <!--
 **FatmaSehitoglu/FatmaSehitoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Bachelor's Degree on Mathematics from Bogazici University
+- I am currently working on Front-End Web development
+- Languages : Python, HTML, CSS, Javascript, C
+- Contact Me on [Linkedin](https://www.linkedin.com/in/fatma-sehitoglu/?locale=en_US) 
